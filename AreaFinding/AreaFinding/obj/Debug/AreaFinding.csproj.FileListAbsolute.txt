@@ -1,0 +1,6 @@
+E:\6th Semester\New csharp\AreaFinding\AreaFinding\bin\Debug\AreaFinding.exe.config
+E:\6th Semester\New csharp\AreaFinding\AreaFinding\bin\Debug\AreaFinding.exe
+E:\6th Semester\New csharp\AreaFinding\AreaFinding\bin\Debug\AreaFinding.pdb
+E:\6th Semester\New csharp\AreaFinding\AreaFinding\obj\Debug\AreaFinding.csprojResolveAssemblyReference.cache
+E:\6th Semester\New csharp\AreaFinding\AreaFinding\obj\Debug\AreaFinding.exe
+E:\6th Semester\New csharp\AreaFinding\AreaFinding\obj\Debug\AreaFinding.pdb

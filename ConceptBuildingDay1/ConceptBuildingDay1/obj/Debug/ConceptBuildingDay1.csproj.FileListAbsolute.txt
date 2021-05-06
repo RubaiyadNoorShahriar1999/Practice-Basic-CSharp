@@ -1,0 +1,6 @@
+E:\8th Semester\Advanced .NET\Basic practice csharp\ConceptBuildingDay1\ConceptBuildingDay1\bin\Debug\ConceptBuildingDay1.exe.config
+E:\8th Semester\Advanced .NET\Basic practice csharp\ConceptBuildingDay1\ConceptBuildingDay1\bin\Debug\ConceptBuildingDay1.exe
+E:\8th Semester\Advanced .NET\Basic practice csharp\ConceptBuildingDay1\ConceptBuildingDay1\bin\Debug\ConceptBuildingDay1.pdb
+E:\8th Semester\Advanced .NET\Basic practice csharp\ConceptBuildingDay1\ConceptBuildingDay1\obj\Debug\ConceptBuildingDay1.csprojResolveAssemblyReference.cache
+E:\8th Semester\Advanced .NET\Basic practice csharp\ConceptBuildingDay1\ConceptBuildingDay1\obj\Debug\ConceptBuildingDay1.exe
+E:\8th Semester\Advanced .NET\Basic practice csharp\ConceptBuildingDay1\ConceptBuildingDay1\obj\Debug\ConceptBuildingDay1.pdb

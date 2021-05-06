@@ -1,0 +1,6 @@
+E:\6th Semester\New csharp\BasicTasks\BasicTasks\bin\Debug\BasicTasks.exe.config
+E:\6th Semester\New csharp\BasicTasks\BasicTasks\bin\Debug\BasicTasks.exe
+E:\6th Semester\New csharp\BasicTasks\BasicTasks\bin\Debug\BasicTasks.pdb
+E:\6th Semester\New csharp\BasicTasks\BasicTasks\obj\Debug\BasicTasks.csprojResolveAssemblyReference.cache
+E:\6th Semester\New csharp\BasicTasks\BasicTasks\obj\Debug\BasicTasks.exe
+E:\6th Semester\New csharp\BasicTasks\BasicTasks\obj\Debug\BasicTasks.pdb
