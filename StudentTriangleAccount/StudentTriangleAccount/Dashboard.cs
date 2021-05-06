@@ -38,6 +38,7 @@ namespace StudentTriangleAccount
                 }
  
             }
+            //Dashboard.Main();
             Console.ReadKey();
         }
     }

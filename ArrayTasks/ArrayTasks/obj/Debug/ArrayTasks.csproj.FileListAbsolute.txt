@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\ArrayTasks\ArrayTasks\bin\Debug\ArrayTasks.exe.config
+C:\Users\USER\documents\visual studio 2013\Projects\ArrayTasks\ArrayTasks\bin\Debug\ArrayTasks.exe
+C:\Users\USER\documents\visual studio 2013\Projects\ArrayTasks\ArrayTasks\bin\Debug\ArrayTasks.pdb
+C:\Users\USER\documents\visual studio 2013\Projects\ArrayTasks\ArrayTasks\obj\Debug\ArrayTasks.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2013\Projects\ArrayTasks\ArrayTasks\obj\Debug\ArrayTasks.exe
+C:\Users\USER\documents\visual studio 2013\Projects\ArrayTasks\ArrayTasks\obj\Debug\ArrayTasks.pdb
