@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityManagement", "UniversityManagement\UniversityManagement.csproj", "{495B5F1B-7FD5-4394-9658-2C1B3CCF308C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{495B5F1B-7FD5-4394-9658-2C1B3CCF308C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495B5F1B-7FD5-4394-9658-2C1B3CCF308C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495B5F1B-7FD5-4394-9658-2C1B3CCF308C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495B5F1B-7FD5-4394-9658-2C1B3CCF308C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
