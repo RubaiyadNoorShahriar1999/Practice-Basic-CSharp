@@ -1,6 +1,0 @@
-E:\8th Semester\Advanced .NET\Basic practice csharp\StudentTriangleAccount\StudentTriangleAccount\bin\Debug\StudentTriangleAccount.exe.config
-E:\8th Semester\Advanced .NET\Basic practice csharp\StudentTriangleAccount\StudentTriangleAccount\obj\Debug\StudentTriangleAccount.csprojResolveAssemblyReference.cache
-E:\8th Semester\Advanced .NET\Basic practice csharp\StudentTriangleAccount\StudentTriangleAccount\bin\Debug\StudentTriangleAccount.exe
-E:\8th Semester\Advanced .NET\Basic practice csharp\StudentTriangleAccount\StudentTriangleAccount\bin\Debug\StudentTriangleAccount.pdb
-E:\8th Semester\Advanced .NET\Basic practice csharp\StudentTriangleAccount\StudentTriangleAccount\obj\Debug\StudentTriangleAccount.exe
-E:\8th Semester\Advanced .NET\Basic practice csharp\StudentTriangleAccount\StudentTriangleAccount\obj\Debug\StudentTriangleAccount.pdb
