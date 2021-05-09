@@ -13,7 +13,7 @@ namespace ConceptBuildingDay1
             Student st1 = new Student("Student" , "Rubaiyad" , "19-39541-1" , 'M' , "A+" );
             st1.showInfo();
 
-            Faculty fc1 = new Faculty("Faculty", "Azmayeen" , "2020-40--1" , "A+" , "Assistant Professor");
+            Faculty fc1 = new Faculty("Faculty", "Azmayeen" , "2020-40-1" , "A+" , "Assistant Professor");
             fc1.showInfo();
 
             Console.ReadKey();

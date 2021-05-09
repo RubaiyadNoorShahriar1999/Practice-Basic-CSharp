@@ -10,22 +10,13 @@ namespace BasicTasks
     {
         static void Main(string[] args)
         {
-            //int num1 =0 , num2=0;
-            //Console.WriteLine("Enter the value of  Number 1: " );
-            //num1 = Convert.ToInt32(Console.ReadLine());
-
-            //Console.WriteLine("Enter the value of  Number 2: ");
-            //num2 = Convert.ToInt32(Console.ReadLine());
-
-            //num1 = Convert.ToInt32(Math.Pow(num1 , num2));
             Power();
-
-            Console.ReadKey();
+            Console.ReadLine();
         }
 
         static void Power()
         {
-            int num1 = 0, num2 = 0;
+            int num1, num2;
             Console.WriteLine("Enter the value of  Number 1: ");
             num1 = Convert.ToInt32(Console.ReadLine());
 
@@ -33,8 +24,8 @@ namespace BasicTasks
             num2 = Convert.ToInt32(Console.ReadLine());
 
             num1 = Convert.ToInt32(Math.Pow(num1, num2));
-            Console.WriteLine("Printing {0} {1}", num1, num2);
-            //return ;
+            Console.WriteLine("Printing : \nAnswer : {0}", num1);
+ 
 
         }
     }

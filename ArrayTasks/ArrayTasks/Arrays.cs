@@ -75,7 +75,7 @@ namespace ArrayTasks
 
 
 
-            Console.ReadKey();
+            Console.Readkey();
 
         }
     }

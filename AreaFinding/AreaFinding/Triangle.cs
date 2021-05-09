@@ -8,21 +8,6 @@ namespace AreaFinding
 {
     class Triangle
     {
-        //private double tlength;
-        //private double theigth;
-
-        //public double TriangleLength
-        //{
-        //    get { return tlength; }
-        //    set { this.tlength = value;  }
-        //}
-
-        //public double TriangleHeight
-        //{
-        //    get { return theigth; }
-        //    set { this.theigth = value; }
-        //}
-
         public double Area(double tlength, double theigth)
         {
             double area;

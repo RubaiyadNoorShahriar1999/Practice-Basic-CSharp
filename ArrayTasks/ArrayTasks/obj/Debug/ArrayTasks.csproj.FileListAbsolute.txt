@@ -4,3 +4,9 @@ C:\Users\USER\documents\visual studio 2013\Projects\ArrayTasks\ArrayTasks\bin\De
 C:\Users\USER\documents\visual studio 2013\Projects\ArrayTasks\ArrayTasks\obj\Debug\ArrayTasks.csprojResolveAssemblyReference.cache
 C:\Users\USER\documents\visual studio 2013\Projects\ArrayTasks\ArrayTasks\obj\Debug\ArrayTasks.exe
 C:\Users\USER\documents\visual studio 2013\Projects\ArrayTasks\ArrayTasks\obj\Debug\ArrayTasks.pdb
+E:\8th Semester\Advanced .NET\Basic practice csharp\ArrayTasks\ArrayTasks\bin\Debug\ArrayTasks.exe.config
+E:\8th Semester\Advanced .NET\Basic practice csharp\ArrayTasks\ArrayTasks\bin\Debug\ArrayTasks.exe
+E:\8th Semester\Advanced .NET\Basic practice csharp\ArrayTasks\ArrayTasks\bin\Debug\ArrayTasks.pdb
+E:\8th Semester\Advanced .NET\Basic practice csharp\ArrayTasks\ArrayTasks\obj\Debug\ArrayTasks.csprojResolveAssemblyReference.cache
+E:\8th Semester\Advanced .NET\Basic practice csharp\ArrayTasks\ArrayTasks\obj\Debug\ArrayTasks.exe
+E:\8th Semester\Advanced .NET\Basic practice csharp\ArrayTasks\ArrayTasks\obj\Debug\ArrayTasks.pdb
